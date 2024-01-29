@@ -1,0 +1,16 @@
+.btn {
+    text-align: center;
+    padding: 40px;
+}
+
+button {
+    color: rgb(138, 136, 136);
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    
+}
+
+button:disabled {
+    display:none;
+}
